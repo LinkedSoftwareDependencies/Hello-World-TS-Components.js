@@ -1,0 +1,9 @@
+{
+    "@context": [
+      "https://linkedsoftwaredependencies.org/bundles/npm/componentsjs/^5.0.0/components/context.jsonld",
+      "https://linkedsoftwaredependencies.org/bundles/npm/componentsjs-hello-world/^2.0.0/components/context.jsonld"
+    ],
+    "@id": "urn:my-package:myInstance",
+    "@type": "MyClass",
+    "name": "John"
+}

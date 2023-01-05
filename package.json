@@ -1,0 +1,20 @@
+{
+    "name": "componentsjs-hello-world",
+    "version": "2.3.4",
+    "lsd:module": true,
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "npm run build:ts && npm run build:components",
+        "build:ts": "tsc",
+        "build:components": "componentsjs-generator -s dist",
+        "prepare": "npm run build"
+    },
+    "dependencies": {
+        "componentsjs": "^5.3.2"
+    },
+    "devDependencies": {
+        "@tsconfig/node14": "^1.0.3",
+        "componentsjs-generator": "^3.1.0"
+    }
+}
