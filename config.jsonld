@@ -5,5 +5,5 @@
     ],
     "@id": "urn:my-package:myInstance",
     "@type": "MyClass",
-    "name": "John"
+    "name": "Ruben"
 }
