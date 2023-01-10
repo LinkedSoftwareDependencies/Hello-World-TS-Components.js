@@ -4,6 +4,6 @@
       "https://linkedsoftwaredependencies.org/bundles/npm/componentsjs-hello-world/^2.0.0/components/context.jsonld"
     ],
     "@id": "urn:my-package:myInstance",
-    "@type": "MyClass",
+    "@type": "HelloClass",
     "name": "Ruben"
 }

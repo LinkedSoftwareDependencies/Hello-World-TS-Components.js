@@ -6,6 +6,5 @@ A `Hello World` example in TypeScript for the semantic dependency injection fram
 
 ```
 npm install
-npm run build
-node dist/index.js
+npm run demo
 ```
